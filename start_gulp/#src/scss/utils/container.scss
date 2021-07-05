@@ -1,0 +1,20 @@
+
+
+html {
+  line-height: $mainLineHeight;
+  font-size: $mainFontSize;
+  color: $primaryText-color;
+  height: 100%;
+  background-color: $default-color;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: $mainFont;
+  font-size: $mainFontSize;
+  font-weight: $mainFontWeight;
+  line-height: $mainLineHeight;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
